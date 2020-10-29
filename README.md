@@ -6,7 +6,7 @@ This is an unofficial implementation of ["Bootstrap Your Own Latent: A New Appro
 
 ## Results
 
-The linear evaluation accuracy of a Resnet-18 or ResNet-34 encoder pretrained for 100 or 200 epochs is shown below.
+The linear evaluation accuracy of a ResNet-18 encoder pretrained for 100 or 200 epochs is shown below.
 
 |           | 100 epochs | 200 epochs |
 |:---------:|:----------:|:----------:|
