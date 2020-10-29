@@ -43,7 +43,7 @@ It takes around 12 hours on a Tesla P100 GPU.
 To evaluate the quality of representations extracted by a certain base encoder, try the following command:
 
 ```bash
-python linearevaluation.py --encoder resnet18 --encoder_weights f300.h5
+python linearevaluation.py --encoder resnet18 --encoder_weights f_online_200.h5
 ```
 
 It takes around 1 hour on a Tesla P100 GPU.
